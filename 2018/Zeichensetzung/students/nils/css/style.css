@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'fira_sansregular';
+    src: url('../fonts/firasans-regular.woff2') format('woff2'),
+         url('../fonts/firasans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p {
+    font-family: fira_sansregular;
+    font-size: 40px;
+    }
