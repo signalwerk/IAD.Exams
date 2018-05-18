@@ -1,0 +1,14 @@
+mkdir -p ../students/pascale/
+mkdir -p ../students/marius/
+mkdir -p ../students/nadia/
+mkdir -p ../students/stephanie/
+mkdir -p ../students/marc/
+mkdir -p ../students/severin/
+mkdir -p ../students/matthias/
+mkdir -p ../students/lars/
+mkdir -p ../students/nils/
+mkdir -p ../students/tieu/
+mkdir -p ../students/natasha/
+mkdir -p ../students/wolfgang/
+mkdir -p ../students/nicole/
+mkdir -p ../students/stefan/
