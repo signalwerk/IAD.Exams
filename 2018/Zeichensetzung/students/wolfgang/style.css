@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'FiraSans-Regular';
+    src: url('./fonts/FiraSans-Regular.woff2') format('woff2'),
+         url('./fonts/FiraSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+h1 {
+  font-family: "FiraSans-Regular";
+  font-size: 30Pt;
+  line-height: 40Pt;
+}
