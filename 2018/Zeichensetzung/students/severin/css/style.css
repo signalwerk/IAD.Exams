@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'firasans-regular';
+    src: url('../font/firasans-regular-webfont.woff') format('woff');
+    url('../font/firasans-regular-webfont.woff2') format('woff2');
+}
+
+body {
+    font-family: firasans-regular, arial, sans-serif;
+}
+
+h1 {
+    font-family: firasans-regular, arial, sans-serif;
+}
+
+.exam {
+    font-size: 30px;
+}
