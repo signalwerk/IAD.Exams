@@ -1,0 +1,10 @@
+@font-face { font-family: 'Fira Sans Regular';
+        src: url('font/firasans-regular-webfont.ttf') format('woff'); }
+@font-face { font-family: 'Fira Sans Regular';
+        src: url('font/firasans-regular-webfont.ttf') format('woff2'); }
+
+p {
+    font-family: Fira Sans Regular;
+    font-size: 30px;
+    line-height: 2;
+}
