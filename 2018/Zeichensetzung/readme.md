@@ -22,4 +22,4 @@ Dauer der Prüfung: 40 min
 ### Typografie (70%)
 * Sind die korrekten typografischen Zeichen gesetzt?
 * Wurde der Inhalt korrekt in HTML umgesetzt.
-* Wurden – wo nötig – geschützte (reduzierte) Wortabstände gesetzt.
+* Wurden – wo nötig – geschützte (reduzierte) Wortabstände gesetzt. (Abzug Note: 0.2)
